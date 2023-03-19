@@ -10,3 +10,6 @@ https://github.com/DrDavidN/gitlab-8-01-hw/commit/bbb3c5c5c52af551cd58f66b84da96
 Задание 3.
 https://github.com/DrDavidN/gitlab-8-01-hw/network
 
+Задание 4.
+https://github.com/DrDavidN/gitlab-8-01-hw/network
+
